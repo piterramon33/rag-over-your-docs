@@ -1,0 +1,10 @@
+{"question": "What is the maximum storage temperature for fresh meat?", "expected": "4\\s*°?\\s*C"}
+{"question": "At what temperature must frozen products be kept?", "expected": "-\\s*18"}
+{"question": "How often are probe thermometers calibrated?", "expected": "month"}
+{"question": "How long are temperature records retained?", "expected": "(two|2)\\s+years"}
+{"question": "Who must be notified when a critical limit is exceeded?", "expected": "quality manager"}
+{"question": "How many minutes can a dock door stay open during loading?", "expected": "10"}
+{"question": "How much does replacing a lost access card cost?", "expected": "15"}
+{"question": "When does the staff canteen close?", "expected": "15:30"}
+{"question": "Who won the 2022 FIFA World Cup?", "answerable": false}
+{"question": "What is the CEO's annual salary?", "answerable": false}
